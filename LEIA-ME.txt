@@ -1,0 +1,9 @@
+Catálogo de Magias do Tormenta RPG Clássico
+
+O catálogo reúne 719 entradas organizadas por livro, com busca e filtros por tradição e nível. Os detalhes separam o efeito/descrição dos parâmetros da magia. As descrições foram organizadas a partir dos PDFs fornecidos e os dados técnicos aparecem quando localizados na fonte; listas que apenas citam magias sem explicar seus efeitos continuam com resumo de consulta.
+
+Livros com abas: Módulo, Manual do Devoto, Guerras Táuricas, Guia da Trilogia, Manual das Raças, O Mundo dos Deuses, RPG e Chá de Laranja, Criaturas Oculares, Ataque a Khalifor, O Mundo de Arton e Elfos Negros.
+
+Em Ataque a Khalifor, a fonte apresenta as magias sem tradição e nível; por isso elas aparecem como não especificadas. Ao adicionar uma magia à ficha, o efeito e os parâmetros disponíveis são copiados para a descrição editável.
+As fichas são salvas no armazenamento local do navegador/dispositivo.
+Para publicar: envie os arquivos desta pasta a um host HTTPS. No Android, abra o endereço no Chrome e escolha Instalar app ou Adicionar à tela inicial.
